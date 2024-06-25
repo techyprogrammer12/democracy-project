@@ -5,7 +5,7 @@ from gtts import gTTS
 from io import BytesIO
 from deep_translator import GoogleTranslator    
 
-api_key = "Your API key to be put here"
+api_key = "sk-proj-ojImuX8fX8bmndgbwANeT3BlbkFJLyhxLfSH5YuDqksyX1sX"
 
 st.title("👨‍💻Hey there!💭James here mate")
 st.write("""My name is James-the-Bot!💻 I can give you all the insights on the topic democracy!""")
