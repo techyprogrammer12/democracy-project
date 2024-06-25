@@ -1,4 +1,9 @@
 # democracy-project
+
+****--------UPDATE--------****
+
+**This project is currently not live! The provided link below might not work as expected because the API key used for this project has been disabled and there's no source currently for creating a new one! Thus, if anyone wants try out this project, feel free to use the code but use your own API key for this project. For API key, go to https://platform.openai.com/api-keys and create your own API key for this!!**
+
 This project was created for an inter-school competition on the topic "Democracy". As elections were close in India, various schools held competitions for promoting the need for "voting". For the same, this AI storybot was developed. It was developed in one and a half day.
 
 Modules used:
